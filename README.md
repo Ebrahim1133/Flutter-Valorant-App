@@ -8,7 +8,7 @@
 
 </br>                      
 ![ScreenShot](https://github.com/Ebrahim1133/Flutter-Valorant-App/blob/master/Screenshot_1682953267.png)
-</br>    
+
 ![ScreenShot](https://github.com/Ebrahim1133/Flutter-Valorant-App/blob/master/Screenshot_1682953296.png)
 </br>    
 ![ScreenShot](https://github.com/Ebrahim1133/Flutter-Valorant-App/blob/master/Screenshot_1682953304.png)
