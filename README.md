@@ -1,16 +1,5 @@
-# valourant_app
+<h1> Flutter Valorant App </h1>
 
-A new Flutter project.
+</br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>A mobile application with a design that is in line with the design of the Valorent game, displaying the agents and details of each agent related to the Valorent game. The block was used as state management, and the API was used to fetch data from the server, with the use of an audio flutter to deal with the voice service of each agent and display it in the application.</p>
